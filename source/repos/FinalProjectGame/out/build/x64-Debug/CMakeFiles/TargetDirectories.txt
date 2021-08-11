@@ -1,0 +1,5 @@
+C:/Users/akhon/source/repos/FinalProjectGame/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/akhon/source/repos/FinalProjectGame/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/akhon/source/repos/FinalProjectGame/out/build/x64-Debug/FinalProjectGame/CMakeFiles/FinalProjectGame.dir
+C:/Users/akhon/source/repos/FinalProjectGame/out/build/x64-Debug/FinalProjectGame/CMakeFiles/edit_cache.dir
+C:/Users/akhon/source/repos/FinalProjectGame/out/build/x64-Debug/FinalProjectGame/CMakeFiles/rebuild_cache.dir
